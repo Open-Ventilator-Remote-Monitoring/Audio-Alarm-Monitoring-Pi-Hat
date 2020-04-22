@@ -1,0 +1,13 @@
+Part     ,Quantity,Value,       Package,MFG Part Number,Link,Note,,,     ,                            ,Library                               ,Position ,(mil)        ,Orientation
+D1       ,1,,1206,QTLP651C4TR,https://www.digikey.com/product-detail/en/everlight-electronics-co-ltd/QTLP651C4TR/1080-1484-1-ND/7598723,This or any other 1206 Green LED,,,     ,                            ,SparkFun-LED                          ,(375 825),             ,R0
+J1       ,1,,,35RAPC4BHN2,https://www.digikey.com/products/en?keywords=SC1459-ND,,,,,,35RAPC4BHN2                           ,(220 1712,.59843)      ,R270
+J2       ,1,,2X6 FEMALE ,BCS-106-L-D-TE,https://www.digikey.com/product-detail/en/samtec-inc/BCS-106-L-D-TE/SAM1008-06-ND/1100265,This or any other 2x6 .1” connector,,        ,     ,                            ,SparkFun-Connectors                   ,-329.5275,6 2705.90551), R0
+Q1       ,1,,SOT-23,MMSS8050-L-TP,https://www.digikey.com/product-detail/en/micro-commercial-co/MMSS8050-L-TP/MMSS8050-L-TPMSCT-ND/2827203,,,,     ,                            ,SMD-TRANSISTORS-NPN-25V-500MW_SOT-23_ ,(400 1025,)            ,R180
+R1       ,1,2.2k ,1206,CRG1206F2K2,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/CRG1206F2K2/A106075CT-ND/3477730,This or any other 1206 resistor,,        ,     ,                            ,SparkFun-Passives                     ,(350 2450,)            ,R270
+R2       ,1,3.3k ,1206,CRG1206F3K3,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/CRG1206F3K3/A106076CT-ND/3477732,This or any other 1206 resistor,,        ,     ,                            ,SparkFun-Passives                     ,(500 2450,)            ,R90
+R3       ,1,4.7k ,1206,CRG1206F4K7,https://www.digikey.com/product-detail/en/te-connectivity-passive-product/CRG1206F4K7/A106078CT-ND/3477735,This or any other 1206 resistor,,        ,     ,                            ,SparkFun-Passives                     ,(450 1250,)            ,R270
+R4       ,1,150,1206,RC1206FR-07150RL,https://www.digikey.com/product-detail/en/yageo/RC1206FR-07150RL/311-150FRCT-ND/731508,This or any other 1206 resistor,,        ,     ,                            ,SparkFun-Passives                     ,(300 1250,)            ,R90
+XA1      ,1,,XHP-2,B2B-XH-A-GU,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-XH-A-GU/455-2946-ND/,OPTIONAL,,,     ,                            ,XHP-2                                 ,(750 1100,)            ,R270
+,,,,,,,,,,,,,,
+STANDOFF,3,M2.5x10,,970100155,https://www.digikey.com/product-detail/en/würth-elektronik/970100155/732-12993-ND/9488697,10mm Tall,,,,,,,,
+BOLT,6,M2.5x6,,91290A101,https://www.mcmaster.com/91290a101,,,,,,,,,
