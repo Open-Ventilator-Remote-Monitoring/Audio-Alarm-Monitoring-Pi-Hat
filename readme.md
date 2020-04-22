@@ -1,6 +1,6 @@
 ## Audio Alarm Monitoring Raspberry Pi Hat
 ### Overview
-This add-on circuit board (Pi Hat) provides a 2.5mm audio input to allow the Soundear audio monitoring device to interface with a raspberry pi configured to work with the Open Ventilator Remote Monitoring Software. An indicated LED is illuminated when at 5V digital signal is received from the Soundear audio monitor. This PCB contains a voltage divider circuit which reduces the 5V digital output from the soundear monitor to 3.3v digital logic suitable for the raspberry pi.
+This add-on circuit board (Pi Hat) provides a 2.5mm audio input jack to allow a Soundear audio monitoring device to interface with a raspberry pi configured to work with the [Open Ventilator Remote Monitoring Software](https://github.com/Open-Ventilator-Remote-Monitoring/remote-ventilator-monitor-pi). An indicator LED is illuminated when at 5V digital signal is received from the Soundear audio monitor. This PCB contains a voltage divider circuit which reduces the 5V digital output from the soundear monitor to 3.3v digital logic suitable for the raspberry pi.
 ![](https://docs.google.com/drawings/d/e/2PACX-1vSqtXpAg8cTxO62BlzSZp-YU2qj7c7WRKmolW69Ne3nnTKPIehSarcs4z8h3bnfYR2UP_W_7z12q-0D/pub?w=480&h=360)
 ### Inputs & Outputs
 #### Inputs
