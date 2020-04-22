@@ -11,6 +11,9 @@ This add-on circuit board (Pi Hat) provides a 2.5mm audio input to allow the Sou
 #### Outputs
 * GPIO 4 pin on raspberry pi (3.3V digital output)
 
+#### Bill Of Materials
+The Bill of Materials is in the [Audio Alarm Monitoring Pi Hat.csv](https://github.com/Open-Ventilator-Remote-Monitoring/Audio-Alarm-Monitoring-Pi-Hat/blob/master/Audio%20Alarm%20Monitoring%20Pi%20Hat.csv) file
+
 #### Manufacturing Notes
 * This board has slotted holes for all the J1 pads. 
 * Milling data is in Audio Alarm Monitoring Pi Hat.GML
@@ -18,6 +21,3 @@ This add-on circuit board (Pi Hat) provides a 2.5mm audio input to allow the Sou
 #### Assembly Notes
 * XA1 is an optional connector for an external LED. Do not populate D1 if you plan to use it.
 * This hat connects to a Raspberry Pi using two 10mm tall standoffs. A third 10mm standoff can be connected to the hat and will sit ontop of the Raspberry Pi to add additional support.
-
-#### Bill Of Materials
-The Bill of Materials is in the [Audio Alarm Monitoring Pi Hat.csv](https://github.com/Open-Ventilator-Remote-Monitoring/Audio-Alarm-Monitoring-Pi-Hat/blob/master/Audio%20Alarm%20Monitoring%20Pi%20Hat.csv)
